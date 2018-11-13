@@ -11,7 +11,7 @@ Packaging : Jar
 Java : 8
 Package : com.example.demo
 
-
+Spring Boot Version : 1.5.17.RELEASE
 
 Project Dependencies : Web, Lombok
 ```
